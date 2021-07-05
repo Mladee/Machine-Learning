@@ -1,2 +1,3 @@
-# Feature Engineering Techniques used: Upsampling,Downsampling,LabelEncoder,OneHotEncoder,PCA.
-# Models used: SVC,Logistic Regression,KNN,Random Forest,Ada Boost,Gradient Boost,Cat Boost.
+Exploratory Data Analysis Methods used ---> Distplot,Heatmap,Boxplot.
+Feature Engineering Techniques used ---> Upsampling,Downsampling,LabelEncoder,OneHotEncoder,PCA.
+Models used ---> SVC,Logistic Regression,KNN,Random Forest,Ada Boost,Gradient Boost,Cat Boost.
