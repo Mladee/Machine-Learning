@@ -1,0 +1,4 @@
+This app was designed to work with the Streamlit framework.I have built it in Sublime text and it has several options to choose from: Exploratory Data Analysis,
+Visualization, Model Selection and some info about the app and about me.It can be run from the anaconda prompt by changing the directory to the one in which you downloaded this
+script,then entering the command: streamlit run app.py, where app is the name you have given this app.Please feel free to give feedback to my app and thank you for taking your time
+to try it out ^.^
